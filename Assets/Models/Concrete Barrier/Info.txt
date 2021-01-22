@@ -1,0 +1,9 @@
+========< Concrete Barrier >========
+
+Model Info :
+Vertics : 540
+Triangles : 180
+GameReady : YES
+
+Please Leave Your Comments & Requests !!
+Good Luck
